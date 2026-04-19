@@ -1,4 +1,4 @@
-# Plane_Wars
+# EasyX_Plane_Wars
 
 ![C++](https://img.shields.io/badge/Language-C++-blue.svg)
 ![Graphics](https://img.shields.io/badge/Library-EasyX-green.svg)
