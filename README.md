@@ -11,9 +11,9 @@
 
 ## 🎬 游戏演示
 <div align="center">
-  <img src="./assets/demo.gif" width="400"/>
-  <p><i>项目运行演示视频</i></p>
-</div>
+  <img src="./飞机大战开发/res/Plane_Wars_demo.gif" width="25%" alt="飞机大战游戏演示">
+  <p><em>项目运行演示视频</em></p>
+</div>  
 
 ---
 
